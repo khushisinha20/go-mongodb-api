@@ -9,8 +9,7 @@ This is a simple RESTful API built with Go, Gorilla Mux, and MongoDB. It allows 
 - Gorilla Mux
 
 ## Project Structure
-
-```plaintext
+```
 ├── controller
 │   └── controller.go
 ├── model
@@ -20,7 +19,7 @@ This is a simple RESTful API built with Go, Gorilla Mux, and MongoDB. It allows 
 ├── main.go
 ├── go.mod
 └── go.sum
-
+```
 
 ## Setup
 
