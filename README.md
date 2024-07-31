@@ -48,6 +48,7 @@ To start the server, run:
 
 ```bash
 go run main.go
+```
 
 The server will start at `http://localhost:4000`.
 
@@ -61,3 +62,5 @@ The server will start at `http://localhost:4000`.
 | DELETE | /api/movie/{id}     | Delete a specific movie |
 | DELETE | /api/deleteallmovie | Delete all movies       |
 
+## Testing the API
+You can test the API using tools like Postman or Thunder Client (an extension for VS Code).
